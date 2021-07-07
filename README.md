@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reinacio
-- 👀 Estou apredendo..
+- 👀 Estou aprendendo..
 - 📫 How to reach me regianehinacio@gmail.com
 
 <!---
