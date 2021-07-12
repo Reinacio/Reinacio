@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reinacio
-- 👀 Estou aprendendo..
+- 👀 Estudando Front end | Back end | FullStack 
 - 📫 How to reach me regianehinacio@gmail.com
 
 <!---
