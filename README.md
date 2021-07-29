@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Reinacio
+REGIANE INACIO - WEB FULLSTACK DEV 
+
 - 👀 Estudando Front end | Back end | FullStack 
 - 📫 How to reach me regianehinacio@gmail.com
 
